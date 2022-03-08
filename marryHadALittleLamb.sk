@@ -1,0 +1,52 @@
+command /start:
+	trigger:
+		wait 10 ticks
+		execute player command "/piano e"
+		wait 10 ticks
+		execute player command "/piano d"
+		wait 10 ticks 
+		execute player command "/piano c"
+		wait 10 ticks
+		execute player command "/piano d"
+		wait 10 ticks 
+		execute player command "/piano e"
+		wait 10 ticks 
+		execute player command "/piano e"
+		wait 10 ticks 
+		execute player command "/piano e"
+		wait 20 ticks
+		execute player command "/piano d"
+		wait 10 ticks
+		execute player command "/piano d"
+		wait 10 ticks 
+		execute player command "/piano d"
+		wait 20 ticks
+		execute player command "/piano e"
+		wait 10 ticks
+		execute player command "/piano e"
+		wait 10 ticks
+		execute player command "/piano e"
+		wait 20 ticks
+		execute player command "/piano e"
+		wait 10 ticks
+		execute player command "/piano d"
+		wait 10 ticks
+		execute player command "/piano c"
+		wait 10 ticks 
+		execute player command "/piano d"
+		wait 10 ticks
+		execute player command "/piano e"
+		wait 10 ticks
+		execute player command "/piano e"
+		wait 10 ticks
+		execute player command "/piano e"
+		wait 20 ticks
+		execute player command "/piano d"
+		wait 10 ticks
+		execute player command "/piano d"
+		wait 10 ticks
+		execute player command "/piano e"
+		wait 10 ticks
+		execute player command "/piano d"
+		wait 10 ticks
+		execute player command "/piano c"
